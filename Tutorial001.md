@@ -14,9 +14,24 @@ tiles.setCurrentTilemap(tilemap`level2`)
 ### Steg 2
 Klikk på det grå kvadratet i ``||scene:set tilemap to||``-blokken og endre størrelsen på kartet.
 Størrelsen endrer du nede i det venstre hjørnet i kart editoren.
-Sett størrelsen til 10 og 7 som vist på bildet du ser når du klikker på lyspæra.
+Sett størrelsen til 10 ganger 7 som vist på bildet du ser når du klikker på lyspæra.
+Klikk på "Done" nederst til høyre når du er ferdig.
+
+![Steg 2](https://raw.githubusercontent.com/InspiriaSCC/arcadetutorials/master/assets/Arcadegame01.jpg)
 
 ### Steg 3
+Nå skal du fylle spillebrettet med gress.
+Klikk på det grå kvadratet i ``||scene:set tilemap to||``-blokken.
+Finn et grønt kvadrat med gress fra utvalget like over tallene du endret i forrige trinn og klikk på det.
+Klikk så på malingsspannet litt lengre opp på siden.
+Når du har valgt malingsspannet, klikker du på det store, grårutete bildet midt på skjermen, slik at det fylles med gress.
+Trykk på "Done" nederst til høyre når du er ferdig.
+
+![Steg 3](https://raw.githubusercontent.com/InspiriaSCC/arcadetutorials/master/assets/Arcadegame02.jpg)
+![Steg 3](https://raw.githubusercontent.com/InspiriaSCC/arcadetutorials/master/assets/Arcadegame03.jpg)
+![Steg 3](https://raw.githubusercontent.com/InspiriaSCC/arcadetutorials/master/assets/Arcadegame04.jpg)
+![Steg 3](https://raw.githubusercontent.com/InspiriaSCC/arcadetutorials/master/assets/Arcadegame05.jpg)
+
 
 ### Steg n: Koble til spillkonsollet
 Om du allerede har koblet til det håndholdte spillkonsollet trenger du ikke å gjøre de neste stegene.
